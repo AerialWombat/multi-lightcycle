@@ -1,4 +1,4 @@
-const socket = io('localhost:3000/');
+const socket = io('https://fathomless-mountain-27914.herokuapp.com/');
 
 // Constants
 const BG_COLOUR = '#231f20';
